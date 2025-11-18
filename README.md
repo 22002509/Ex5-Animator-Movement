@@ -56,7 +56,8 @@ public class movement : MonoBehaviour
 ```
 ## Output:
 
-![alt text](movement.png)
+<img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/fa7792a3-12e3-40e1-8eb7-dfdc55f009e4" />
+
 
 
 
